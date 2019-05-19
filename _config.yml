@@ -746,7 +746,7 @@ needmoreshare2:
 # ---------------------------------------------------------------
 
 # Baidu Analytics ID
-#baidu_analytics: d0cbaae42702a7213f06cb394a34a120
+baidu_analytics: d0cbaae42702a7213f06cb394a34a120
 
 # Growingio Analytics ID
 # Copyright 2015-2018 GrowingIO, Inc. More info available at https://www.growingio.com
