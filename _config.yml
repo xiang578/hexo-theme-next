@@ -159,8 +159,8 @@ baidu_push: true
 menu:
   home: / || home
   tech: /tech/ 
-  books: /books/
-  movies: /movies/
+  #books: /books/
+  #movies: /movies/
   about: /about/ || user
   tags: /tags/ || tags
   #categories: /categories/ || th
