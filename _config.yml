@@ -159,6 +159,7 @@ baidu_push: true
 menu:
   home: / || home
   tech: /tech/ 
+  wiki: https://wiki.xiang578.com/
   #books: /books/
   #movies: /movies/
   about: /about/ || user
