@@ -671,7 +671,7 @@ gitment:
 # Gitalk
 # Demo: https://gitalk.github.io
 gitalk:
-  enable: true
+  enable: false
   github_id: xiang578 # Github repo owner
   repo: xiang578.github.io # Repository name to store issues
   client_id: d83511859fbdb256f4ce # Github Application Client ID
