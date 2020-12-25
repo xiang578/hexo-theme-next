@@ -158,7 +158,8 @@ baidu_push: true
 # External url should start with http:// or https://
 menu:
   home: / || home
-  tech: /tech/ 
+  #tech: /tech/ 
+  log: /log/
   wiki: https://wiki.xiang578.com/
   #books: /books/
   #movies: /movies/
