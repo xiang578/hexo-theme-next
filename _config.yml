@@ -26,7 +26,7 @@ cache:
   # Default path: source/css/_mixins/custom.styl
   #mixins: source/_data/mixins.styl
   # Default path: source/css/_custom/custom.styl
-  #styles: source/_data/styles.styl
+  styles: source/_data/styles.styl
 
 
 # ---------------------------------------------------------------
